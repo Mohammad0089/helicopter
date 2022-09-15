@@ -4,6 +4,3 @@ following patternes has been used in this Game project:
 MVC pattern, Singleton pattern, State pattern, Template pattern, Command pattern, and Observer pattern.
 
 Here is a link to vedio demo: https://youtu.be/z9KCfp2ZnWs
-
-
-
